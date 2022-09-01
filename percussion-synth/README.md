@@ -12,4 +12,4 @@ Envelopes' decay can be as long as 1.5s, and tempo clock can go as fast as 20 Hz
 
 ## Demo
 
-<a href="https://youtu.be/OEi-Y9DU0-A">Demo video</a>
+<a href="https://youtu.be/fGseJl0bDiE">Demo video</a>
